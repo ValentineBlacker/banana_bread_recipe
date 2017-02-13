@@ -1,5 +1,5 @@
- # Valentine's Banana Bread for Coders
- ## with very detailed instructions just in case you need them
+# Valentine's Banana Bread for Coders
+## with very detailed instructions just in case you need them
 
 Loosely based on [Betty Crocker's version](http://www.bettycrocker.com/recipes/banana-bread/51427396-6764-4b0a-a73a-78c683c703d2 "good ol' Betty C")
 
